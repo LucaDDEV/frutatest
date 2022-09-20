@@ -1,0 +1,16 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Styles/CircleToggleStyle.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Accessibility label for circular style toggle that is checked (on)",
+        "key": "Checked"
+      },
+      {
+        "comment": "Accessibility label for circular style toggle that is unchecked (off)",
+        "key": "Unchecked"
+      }
+    ]
+  },
+  "version": 1
+}

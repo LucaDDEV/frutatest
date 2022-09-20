@@ -1,0 +1,36 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Orders/OrderPlacedView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Thank you for your order!"
+      },
+      {
+        "comment": "",
+        "key": "We will notify you when your order is ready."
+      },
+      {
+        "comment": "Fallback name for smoothie",
+        "key": "Smoothie"
+      },
+      {
+        "comment": "",
+        "key": "Your smoothie is ready!"
+      },
+      {
+        "comment": "",
+        "key": "%@ is ready to be picked up."
+      },
+      {
+        "comment": "",
+        "key": "Sign up to get rewards!"
+      },
+      {
+        "comment": "",
+        "key": "Get the full smoothie experience!"
+      }
+    ]
+  },
+  "version": 1
+}

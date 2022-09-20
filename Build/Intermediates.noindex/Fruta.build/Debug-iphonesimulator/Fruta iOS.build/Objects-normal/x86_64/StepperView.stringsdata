@@ -1,0 +1,16 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Components/StepperView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Smoothie Count"
+      },
+      {
+        "comment": "",
+        "key": "Stepper"
+      }
+    ]
+  },
+  "version": 1
+}

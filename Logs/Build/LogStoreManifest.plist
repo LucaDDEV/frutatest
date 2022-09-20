@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>113CD2CA-3284-47CB-9E89-C5CC27D027E9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>113CD2CA-3284-47CB-9E89-C5CC27D027E9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fruta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fruta iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fruta iOS</string>
+			<key>timeStartedRecording</key>
+			<real>680630259.422984</real>
+			<key>timeStoppedRecording</key>
+			<real>680630340.15723205</real>
+			<key>title</key>
+			<string>Build Fruta iOS</string>
+			<key>uniqueIdentifier</key>
+			<string>113CD2CA-3284-47CB-9E89-C5CC27D027E9</string>
+		</dict>
+		<key>1986086B-149E-40DD-A495-7D8F018882FC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1986086B-149E-40DD-A495-7D8F018882FC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fruta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fruta iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean Fruta iOS</string>
+			<key>timeStartedRecording</key>
+			<real>680631410.97049105</real>
+			<key>timeStoppedRecording</key>
+			<real>680631411.02579403</real>
+			<key>title</key>
+			<string>Clean Fruta iOS</string>
+			<key>uniqueIdentifier</key>
+			<string>1986086B-149E-40DD-A495-7D8F018882FC</string>
+		</dict>
+		<key>709E8A73-E8A7-4F5F-94D8-E470043193B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>709E8A73-E8A7-4F5F-94D8-E470043193B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fruta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fruta iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fruta iOS</string>
+			<key>timeStartedRecording</key>
+			<real>680631252.02209997</real>
+			<key>timeStoppedRecording</key>
+			<real>680631264.52355802</real>
+			<key>title</key>
+			<string>Build Fruta iOS</string>
+			<key>uniqueIdentifier</key>
+			<string>709E8A73-E8A7-4F5F-94D8-E470043193B7</string>
+		</dict>
+		<key>8AE13D46-8280-4622-BEEE-D2AD7FBB8919</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8AE13D46-8280-4622-BEEE-D2AD7FBB8919.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fruta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fruta iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fruta iOS</string>
+			<key>timeStartedRecording</key>
+			<real>680631374.30824697</real>
+			<key>timeStoppedRecording</key>
+			<real>680631376.32500196</real>
+			<key>title</key>
+			<string>Build Fruta iOS</string>
+			<key>uniqueIdentifier</key>
+			<string>8AE13D46-8280-4622-BEEE-D2AD7FBB8919</string>
+		</dict>
+		<key>9A1DFE06-864F-4B25-A043-082B89652983</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9A1DFE06-864F-4B25-A043-082B89652983.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fruta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fruta iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fruta iOS</string>
+			<key>timeStartedRecording</key>
+			<real>680631308.39992201</real>
+			<key>timeStoppedRecording</key>
+			<real>680631313.75765705</real>
+			<key>title</key>
+			<string>Build Fruta iOS</string>
+			<key>uniqueIdentifier</key>
+			<string>9A1DFE06-864F-4B25-A043-082B89652983</string>
+		</dict>
+		<key>B3BEFBBB-DD1D-4A6F-A784-4682FA39DC5C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B3BEFBBB-DD1D-4A6F-A784-4682FA39DC5C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fruta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fruta iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean Fruta iOS</string>
+			<key>timeStartedRecording</key>
+			<real>680631408.19582999</real>
+			<key>timeStoppedRecording</key>
+			<real>680631408.97534597</real>
+			<key>title</key>
+			<string>Clean Fruta iOS</string>
+			<key>uniqueIdentifier</key>
+			<string>B3BEFBBB-DD1D-4A6F-A784-4682FA39DC5C</string>
+		</dict>
+		<key>CF49F88E-3406-4065-B009-3C6F1990DF9E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF49F88E-3406-4065-B009-3C6F1990DF9E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fruta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fruta iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean Fruta iOS</string>
+			<key>timeStartedRecording</key>
+			<real>680631581.52035606</real>
+			<key>timeStoppedRecording</key>
+			<real>680631581.97571695</real>
+			<key>title</key>
+			<string>Clean Fruta iOS</string>
+			<key>uniqueIdentifier</key>
+			<string>CF49F88E-3406-4065-B009-3C6F1990DF9E</string>
+		</dict>
+		<key>F151F337-BB46-40F1-B947-2FD4757ACB63</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F151F337-BB46-40F1-B947-2FD4757ACB63.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fruta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fruta iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fruta iOS</string>
+			<key>timeStartedRecording</key>
+			<real>680631596.04451001</real>
+			<key>timeStoppedRecording</key>
+			<real>680631645.47427297</real>
+			<key>title</key>
+			<string>Build Fruta iOS</string>
+			<key>uniqueIdentifier</key>
+			<string>F151F337-BB46-40F1-B947-2FD4757ACB63</string>
+		</dict>
+		<key>F366C71C-7B0C-4CF9-AF41-80F8CE34B972</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F366C71C-7B0C-4CF9-AF41-80F8CE34B972.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fruta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fruta iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fruta iOS</string>
+			<key>timeStartedRecording</key>
+			<real>680631413.38258803</real>
+			<key>timeStoppedRecording</key>
+			<real>680631463.58715904</real>
+			<key>title</key>
+			<string>Build Fruta iOS</string>
+			<key>uniqueIdentifier</key>
+			<string>F366C71C-7B0C-4CF9-AF41-80F8CE34B972</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

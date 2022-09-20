@@ -1,0 +1,128 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Smoothie/Smoothie.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Smoothie name",
+        "key": "Berry Blue"
+      },
+      {
+        "comment": "Smoothie name",
+        "key": "Carrot Chops"
+      },
+      {
+        "comment": "Smoothie name",
+        "key": "Piña y Coco"
+      },
+      {
+        "comment": "Smoothie name",
+        "key": "Hulking Lemonade"
+      },
+      {
+        "comment": "Smoothie name",
+        "key": "Kiwi Cutie"
+      },
+      {
+        "comment": "Smoothie name",
+        "key": "Lemonberry"
+      },
+      {
+        "comment": "Smoothie name",
+        "key": "Love You Berry Much"
+      },
+      {
+        "comment": "Smoothie name",
+        "key": "Mango Jambo"
+      },
+      {
+        "comment": "Smoothie name",
+        "key": "One in a Melon"
+      },
+      {
+        "comment": "Smoothie name",
+        "key": "Papa's Papaya"
+      },
+      {
+        "comment": "Smoothie name",
+        "key": "Peanut Butter Cup"
+      },
+      {
+        "comment": "Smoothie name",
+        "key": "Sailor Man"
+      },
+      {
+        "comment": "Smoothie name",
+        "key": "That's a Smore!"
+      },
+      {
+        "comment": "Smoothie name",
+        "key": "That's Berry Bananas!"
+      },
+      {
+        "comment": "Smoothie name",
+        "key": "Tropical Blue"
+      },
+      {
+        "comment": "Berry Blue smoothie description",
+        "key": "*Filling* and *refreshing*, this smoothie will fill you with joy!"
+      },
+      {
+        "comment": "Carrot Chops smoothie description",
+        "key": "*Packed* with vitamin A and C, Carrot Chops is a great way to start your day!"
+      },
+      {
+        "comment": "Piña y Coco smoothie description",
+        "key": "Enjoy the *tropical* flavors of coconut and pineapple!"
+      },
+      {
+        "comment": "Hulking Lemonade smoothie description",
+        "key": "This is not just *any* lemonade. It will give you *powers* you'll struggle to control!"
+      },
+      {
+        "comment": "Kiwi Cutie smoothie description",
+        "key": "Kiwi Cutie is beautiful *inside* ***and*** *out*! Packed with nutrients to start your day!"
+      },
+      {
+        "comment": "Lemonberry smoothie description",
+        "key": "A refreshing blend that's a *real kick*!"
+      },
+      {
+        "comment": "Love You Berry Much smoothie description",
+        "key": "If you *love* berries berry berry much, you will love this one!"
+      },
+      {
+        "comment": "Mango Jambo smoothie description",
+        "key": "Dance around with this *delicious* tropical blend!"
+      },
+      {
+        "comment": "One in a Melon smoothie description",
+        "key": "Feel special this summer with the *coolest* drink in our menu!"
+      },
+      {
+        "comment": "Papa's Papaya smoothie description",
+        "key": "Papa would be proud of you if he saw you drinking this!"
+      },
+      {
+        "comment": "Peanut Butter Cup smoothie description",
+        "key": "Ever wondered what it was like to *drink a peanut butter cup*? Wonder no more!"
+      },
+      {
+        "comment": "Sailor Man smoothie description",
+        "key": "*Get strong* with this delicious spinach smoothie!"
+      },
+      {
+        "comment": "That's a Smore! smoothie description",
+        "key": "When the world seems to rock like you've had too much choc, that's *a smore*!"
+      },
+      {
+        "comment": "That's Berry Bananas! smoothie description",
+        "key": "You'll go *crazy* with this classic!"
+      },
+      {
+        "comment": "Tropical Blue smoothie description",
+        "key": "A delicious blend of *tropical fruits and blueberries* will have you sambaing around like you never knew you could!"
+      }
+    ]
+  },
+  "version": 1
+}

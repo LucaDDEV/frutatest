@@ -1,0 +1,68 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/NutritionFacts/Nutritions.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Total Fat"
+      },
+      {
+        "comment": "",
+        "key": "Saturated Fat"
+      },
+      {
+        "comment": "",
+        "key": "Monounsaturated Fat"
+      },
+      {
+        "comment": "",
+        "key": "Polyunsaturated Fat"
+      },
+      {
+        "comment": "",
+        "key": "Cholesterol"
+      },
+      {
+        "comment": "",
+        "key": "Sodium"
+      },
+      {
+        "comment": "",
+        "key": "Total Carbohydrates"
+      },
+      {
+        "comment": "",
+        "key": "Dietary Fiber"
+      },
+      {
+        "comment": "",
+        "key": "Sugar"
+      },
+      {
+        "comment": "",
+        "key": "Protein"
+      },
+      {
+        "comment": "",
+        "key": "Calcium"
+      },
+      {
+        "comment": "",
+        "key": "Potassium"
+      },
+      {
+        "comment": "",
+        "key": "Vitamin A"
+      },
+      {
+        "comment": "",
+        "key": "Vitamin C"
+      },
+      {
+        "comment": "",
+        "key": "Iron"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,12 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Smoothie/SmoothieCommands.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Menu title for smoothie-related actions",
+        "key": "Smoothie"
+      }
+    ]
+  },
+  "version": 1
+}

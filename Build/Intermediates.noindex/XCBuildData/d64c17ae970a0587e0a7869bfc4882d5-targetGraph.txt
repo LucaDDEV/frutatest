@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Fruta iOS Widgets in Fruta, no dependencies
+Fruta iOS Clip in Fruta, no dependencies
+Fruta iOS in Fruta, depends on:
+Fruta iOS Widgets in Fruta (explicit)
+Fruta iOS Clip in Fruta (explicit)

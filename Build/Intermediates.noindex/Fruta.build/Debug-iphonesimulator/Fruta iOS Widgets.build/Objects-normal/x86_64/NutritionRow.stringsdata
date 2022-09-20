@@ -1,0 +1,12 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/NutritionFacts/NutritionRow.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Iron"
+      }
+    ]
+  },
+  "version": 1
+}

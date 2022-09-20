@@ -1,0 +1,24 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Orders/RewardsCard.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Accessibility label for number of points earned",
+        "key": "%lld of 10 points earned"
+      },
+      {
+        "comment": "Header for rewards card",
+        "key": "Rewards Card"
+      },
+      {
+        "comment": "Label showing the number of points needed to get a free smoothie in rewards card view",
+        "key": "You are %lld points away from a free smoothie!"
+      },
+      {
+        "comment": "Label shown in rewards card view when no account has been created yet",
+        "key": "Sign up to get rewards!"
+      }
+    ]
+  },
+  "version": 1
+}

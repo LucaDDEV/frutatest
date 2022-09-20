@@ -1,0 +1,16 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Smoothie/FavoriteSmoothies.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Title of the 'favorites' app section showing the list of favorite smoothies",
+        "key": "Favorites"
+      },
+      {
+        "comment": "Placeholder text shown in list of smoothies when no favorite smoothies have been added yet",
+        "key": "Add some smoothies to your favorites!"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,20 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Ingredients/IngredientGraphic.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Close"
+      },
+      {
+        "comment": "",
+        "key": "Open Nutrition Facts"
+      },
+      {
+        "comment": "",
+        "key": "Close Nutrition Facts"
+      }
+    ]
+  },
+  "version": 1
+}

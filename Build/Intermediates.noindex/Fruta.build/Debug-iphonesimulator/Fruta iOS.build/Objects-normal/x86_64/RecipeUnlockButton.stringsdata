@@ -1,0 +1,24 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Recipe/RecipeUnlockButton.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Accessibility label for button to buy recipe for a certain price.",
+        "key": "Buy recipe for %@"
+      },
+      {
+        "comment": "",
+        "key": "Unlock All Recipes"
+      },
+      {
+        "comment": "",
+        "key": "Make smoothies at home!"
+      },
+      {
+        "comment": "",
+        "key": "Loading…"
+      }
+    ]
+  },
+  "version": 1
+}

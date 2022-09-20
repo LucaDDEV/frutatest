@@ -1,0 +1,22 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Recipe/RecipeView.swift",
+  "tables": {
+    "Ingredients": [
+      {
+        "comment": "Ingredients in a recipe. For languages that have different words for \"Ingredient\" based on semantic context.",
+        "key": "Ingredients.recipe"
+      }
+    ],
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld Smoothies"
+      },
+      {
+        "comment": "Label for toggle showing whether you have completed adding an ingredient that's part of a smoothie recipe",
+        "key": "Complete"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,40 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Navigation/AppSidebarNavigation.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Select a category"
+      },
+      {
+        "comment": "",
+        "key": "Select a smoothie"
+      },
+      {
+        "comment": "",
+        "key": "Fruta"
+      },
+      {
+        "comment": "",
+        "key": "Menu"
+      },
+      {
+        "comment": "",
+        "key": "Favorites"
+      },
+      {
+        "comment": "",
+        "key": "Recipes"
+      },
+      {
+        "comment": "",
+        "key": "Rewards"
+      },
+      {
+        "comment": "Button title to dismiss rewards sheet",
+        "key": "Done"
+      }
+    ]
+  },
+  "version": 1
+}

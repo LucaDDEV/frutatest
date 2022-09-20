@@ -1,0 +1,12 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Smoothie/RedeemSmoothieButton.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Button to redeem a free smoothie",
+        "key": "Redeem Free Smoothie!"
+      }
+    ]
+  },
+  "version": 1
+}

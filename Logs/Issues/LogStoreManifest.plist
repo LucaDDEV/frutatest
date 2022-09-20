@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5B1C3529-A8EF-4269-86D9-A3CBEA275D6E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>5B1C3529-A8EF-4269-86D9-A3CBEA275D6E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>Fruta_iOS_Clip-fnjxsnyhnxyxmrfjpxwhjbbhnxps</string>
+			<key>timeStartedRecording</key>
+			<real>680631601.06864798</real>
+			<key>timeStoppedRecording</key>
+			<real>680631636.14372802</real>
+			<key>title</key>
+			<string>Build target Fruta iOS Clip</string>
+			<key>uniqueIdentifier</key>
+			<string>5B1C3529-A8EF-4269-86D9-A3CBEA275D6E</string>
+		</dict>
+		<key>E351F2A9-24E1-4C46-9D20-CE90E913099D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>E351F2A9-24E1-4C46-9D20-CE90E913099D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>Fruta_iOS-fnjxsnyhnxyxmrfjpxwhjbbhnxps</string>
+			<key>timeStartedRecording</key>
+			<real>680631601.06714499</real>
+			<key>timeStoppedRecording</key>
+			<real>680631645.45548797</real>
+			<key>title</key>
+			<string>Build target Fruta iOS</string>
+			<key>uniqueIdentifier</key>
+			<string>E351F2A9-24E1-4C46-9D20-CE90E913099D</string>
+		</dict>
+		<key>F39D2E16-4E5C-40B2-AAAA-F4FDC24AD9F2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>F39D2E16-4E5C-40B2-AAAA-F4FDC24AD9F2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>Fruta_iOS_Widgets-fnjxsnyhnxyxmrfjpxwhjbbhnxps</string>
+			<key>timeStartedRecording</key>
+			<real>680631601.06929195</real>
+			<key>timeStoppedRecording</key>
+			<real>680631634.52230096</real>
+			<key>title</key>
+			<string>Build target Fruta iOS Widgets</string>
+			<key>uniqueIdentifier</key>
+			<string>F39D2E16-4E5C-40B2-AAAA-F4FDC24AD9F2</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

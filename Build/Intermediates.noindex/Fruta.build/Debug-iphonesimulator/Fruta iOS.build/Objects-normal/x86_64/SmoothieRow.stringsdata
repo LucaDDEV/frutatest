@@ -1,0 +1,12 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Smoothie/SmoothieRow.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Accessibility label containing the full list of smoothie ingredients",
+        "key": "Ingredients: %@."
+      }
+    ]
+  },
+  "version": 1
+}

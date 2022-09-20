@@ -1,0 +1,34 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Smoothie/SmoothieView.swift",
+  "tables": {
+    "Ingredients": [
+      {
+        "comment": "Ingredients in a smoothie. For languages that have different words for \"Ingredient\" based on semantic context.",
+        "key": "Ingredients.menu"
+      }
+    ],
+    "Localizable": [
+      {
+        "comment": "Button to dismiss the confirmation sheet after placing an order",
+        "key": "Done"
+      },
+      {
+        "comment": "Title of alert dialog when payments are disabled",
+        "key": "Payments Disabled"
+      },
+      {
+        "comment": "Explanatory text of alert dialog when payments are disabled",
+        "key": "The Fruta QR code was scanned too far from the shop, payments are disabled for your protection."
+      },
+      {
+        "comment": "OK button of alert dialog when payments are disabled",
+        "key": "OK"
+      },
+      {
+        "comment": "Accessibility label for collapsed ingredient card in smoothie overview",
+        "key": "%@ Ingredient"
+      }
+    ]
+  },
+  "version": 1
+}

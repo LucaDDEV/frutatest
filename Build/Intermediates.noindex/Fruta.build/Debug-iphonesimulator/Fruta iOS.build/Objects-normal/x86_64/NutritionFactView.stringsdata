@@ -1,0 +1,16 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/NutritionFacts/NutritionFactView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Nutrition Facts"
+      },
+      {
+        "comment": "",
+        "key": "Serving Size 1 Cup"
+      }
+    ]
+  },
+  "version": 1
+}

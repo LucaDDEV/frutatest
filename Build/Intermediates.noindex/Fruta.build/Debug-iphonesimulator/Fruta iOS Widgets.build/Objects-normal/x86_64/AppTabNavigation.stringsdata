@@ -1,0 +1,24 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/iOS/AppTabNavigation.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Smoothie menu tab title",
+        "key": "Menu"
+      },
+      {
+        "comment": "Favorite smoothies tab title",
+        "key": "Favorites"
+      },
+      {
+        "comment": "Smoothie rewards tab title",
+        "key": "Rewards"
+      },
+      {
+        "comment": "Smoothie recipes tab title",
+        "key": "Recipes"
+      }
+    ]
+  },
+  "version": 1
+}

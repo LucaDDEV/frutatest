@@ -1,0 +1,20 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Smoothie/SmoothieList.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Smoothies"
+      },
+      {
+        "comment": "",
+        "key": "Favorite Smoothies"
+      },
+      {
+        "comment": "Swipe action button in smoothie list",
+        "key": "Favorite"
+      }
+    ]
+  },
+  "version": 1
+}

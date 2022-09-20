@@ -1,0 +1,16 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Smoothie/SmoothieFavoriteButton.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Toolbar button/menu item to remove a smoothie from favorites",
+        "key": "Remove from Favorites"
+      },
+      {
+        "comment": "Toolbar button/menu item to add a smoothie to favorites",
+        "key": "Add to Favorites"
+      }
+    ]
+  },
+  "version": 1
+}

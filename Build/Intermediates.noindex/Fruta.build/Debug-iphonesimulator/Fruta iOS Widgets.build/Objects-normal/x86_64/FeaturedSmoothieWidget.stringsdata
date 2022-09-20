@@ -1,0 +1,16 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Widgets/FeaturedSmoothieWidget.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "The name shown for the widget when the user adds or edits it",
+        "key": "Featured Smoothie"
+      },
+      {
+        "comment": "Description shown for the widget when the user adds or edits it",
+        "key": "Displays the latest featured smoothie!"
+      }
+    ]
+  },
+  "version": 1
+}

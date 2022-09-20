@@ -1,0 +1,28 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Recipe/RecipeList.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "Title of the 'recipes' app section showing the list of smoothie recipes.",
+        "key": "Recipes"
+      },
+      {
+        "comment": "",
+        "key": "Favorite Smoothies"
+      },
+      {
+        "comment": "",
+        "key": "Smoothies"
+      },
+      {
+        "comment": "",
+        "key": "Unlock All Recipes"
+      },
+      {
+        "comment": "",
+        "key": "Loading…"
+      }
+    ]
+  },
+  "version": 1
+}

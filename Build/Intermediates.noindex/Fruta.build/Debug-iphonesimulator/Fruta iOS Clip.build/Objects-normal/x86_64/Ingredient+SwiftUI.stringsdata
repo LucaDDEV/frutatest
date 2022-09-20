@@ -1,0 +1,84 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Shared/Ingredients/Ingredient+SwiftUI.swift",
+  "tables": {
+    "Ingredients": [
+      {
+        "comment": "Ingredient name",
+        "key": "Avocado"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Almond Milk"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Banana"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Blueberry"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Carrot"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Chocolate"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Coconut"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Kiwi"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Lemon"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Mango"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Orange"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Papaya"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Peanut Butter"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Pineapple"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Raspberry"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Spinach"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Strawberry"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Water"
+      },
+      {
+        "comment": "Ingredient name",
+        "key": "Watermelon"
+      }
+    ]
+  },
+  "version": 1
+}

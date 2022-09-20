@@ -1,0 +1,16 @@
+{
+  "source": "/Users/luca/Desktop/Fruta/Widgets/RewardsCardWidget.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "The name shown for the widget when the user adds or edits it",
+        "key": "Rewards Card"
+      },
+      {
+        "comment": "Description shown for the widget when the user adds or edits it",
+        "key": "See your progress towards your next free smoothie!"
+      }
+    ]
+  },
+  "version": 1
+}
